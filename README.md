@@ -62,12 +62,6 @@ Passionate B.Tech (CSE) student at IIIT Kota building scalable backend systems, 
 
 ---
 
-## 👨‍💼 Leadership & Mentoring
-**Head — Web Development & Tech Wing, Paryavaran Shakti** (Aug 2024 – Present)  
-- Mentored 20+ students across full-stack and system-design workshops and led collaborative projects.
-
----
-
 ## 🤝 Let’s Collaborate
 I’m open to open-source contributions, internships, and  building backend systems, mobile apps, or ML/AI pipelines.  
 - **Best way to reach:** adarshiiitkota@gmail.com  
